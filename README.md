@@ -52,3 +52,4 @@ Users should be able to:
 
 - Frontend Mentor - [@flxemt](https://www.frontendmentor.io/profile/flxemt)
 - Twitter - [@flxemt](https://twitter.com/flxemt)
+# DictionaryAPI
